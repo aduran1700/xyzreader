@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="718892700339160"
+    token="8404097879034568596" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="716452937976645" >
+        <artifact
+            location="/Users/aduran/Downloads/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="717756417968043"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="718809011505656"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="718892700339160" >
+        <artifact
+            location="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
