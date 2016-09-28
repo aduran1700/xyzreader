@@ -1,2 +1,248 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_dd0ac011c365d8d527ae817b6d2e45a201b76afe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_f63373992682b55e340de29a09da7beaa5764896/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_676736e76ed29af347629bcf92ffea6ff76db258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.2.1_6bad8546777c98728d51055a12c59b8717c013a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_9cb070cf85824f5dd7963a27de850b059a835764/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8038d72057fd4580d2a8761ed86918e9d82d8289">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_250fcc0fabc7ab22dbbbb016584d018bb4000a3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_ff2c0cfcd361d73f7fabb9a6477949d1f2fd08c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f0e782d489ed6a8b9ea7452f5968d2113fad8a84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7d8d92b484f9d0e5ff21455cd44f2d50c7fd5c3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_95fbdb9269b09448668d8b9d7f5812facfdb65fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a5916709f986c0b35cdd9ca35d1167495ac25708/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_a37fb16e19bd76f44da0049c4f2489ae2fa6e0ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_32bc3e97436fd5aa89324486491dc60ea14bbd1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_640753f1541a3eb9dcf7fb42986a5b06c2b98f1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_5f41bdc82c02e3bf9647561836b7e5cb9c68ade3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_66e33cd08e3a9156db309399248e7807ecf14a75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_e3f2e1ef91e080e030dab23236a5f516f8e73b65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_95bfa4ac081046163739bf22b9afc087d9011de1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_b9bc41d806cbcdf4420faf32a4779952e543c7f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_34d469337b9117821225672488338a947306e9be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f4f8540df987982e4bf32fe7cd2e2cfdf46cdb8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.2.1_ed353f482faa65b3797fc3dd3b4b9a127af334f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_385f71a7d58a452939305ffbe30c74dde81e1c36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_3f6d0ef040e4a808cd0cf6d9565acf09d1193ac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fd9f38e3e6c73052b2cd9fb8a87a1a1db63a6600">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5be37797fba540563dfa974ddd239d48e83951f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_88c38bc9037618bd583546ddd6c2f203913892aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/aduran/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_b354fa47d4230f8fe07573f5f5f9a0005f775539/classes.dex" />
+    </item>
+
+</items>
